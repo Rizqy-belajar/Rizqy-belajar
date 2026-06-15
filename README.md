@@ -19,15 +19,13 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Rizqy, you can call me Ritsuki. I'm from Indonesia<br><br>- 🔭 I’m currently working as Flutter Developer<br>- 📚 I'm currently learning Fullstack Web Development<br>- ⚡ In my free time I do Gaming 🎮</p>
 
 ###
 
